@@ -1,1 +1,1 @@
-# AI-ML-Speech-to-text-and-text-translation
+# AI ML Speech to text and text translation
